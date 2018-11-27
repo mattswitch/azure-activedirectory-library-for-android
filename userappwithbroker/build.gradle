@@ -12,7 +12,7 @@ android {
     flavorDimensions 'main'
 
     productFlavors {
-        main {
+        original {
             matchingFallbacks = ['local', 'dist']
         }
     }
